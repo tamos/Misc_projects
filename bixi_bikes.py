@@ -1,4 +1,6 @@
-# -*- coding: utf-8 -*-
+'''
+This uses a network approach to visualize Bixi bicycle rentals in Montreal
+'''
 
 import pandas as pd
 import matplotlib.pyplot as plt
